@@ -110,3 +110,16 @@ Example
 ```
 make gen in=1000
 ```
+
+# Results
+
+For this test was used:
+
+- File with 100,000,000 elements (~1GB)
+- 512 RAM
+- 512 Available swap memory
+- Mac M1 CPU
+
+![Results](Results.png)
+
+> Sorting took 2 minutes and 22 seconds
